@@ -3,11 +3,10 @@
     "teapot-spillthetea": "^1.2.0",
     "teh-pocong": "^0.1.0"
   },
-  "name": "teh-pocong",
+  "name": "@margoutomo/teh-pocong",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/mirror-trade/teh-pocong/issues"
   },
-  "homepage": "https://github.com/mirror-trade/teh-pocong#readme"
+  "homepage": "https://github.com/mirror-trade/teh-pocong#readme",
+  "devDependencies": {}
 }
